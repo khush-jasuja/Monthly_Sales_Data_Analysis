@@ -3,7 +3,7 @@
 ## Overview
 This dashboard provides a complete sales performance analysis using Excel-based datasets. It helps visualize revenue trends, customer behavior, product performance, and profitability insights.
 
-The dashboard is built using data from the `Sales_data_1.xlsx` workbook and includes multiple analytical sheets for reporting and visualization.
+The dashboard is built using data from the `Sales_data.xlsx` workbook and includes multiple analytical sheets for reporting and visualization.
 
 ---
 
