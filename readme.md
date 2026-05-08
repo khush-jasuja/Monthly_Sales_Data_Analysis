@@ -110,7 +110,7 @@ This dashboard can be used for:
 ---
 
 ## How to Use
-1. Open the `Sales_data_1.xlsx` workbook.
+1. Open the `Sales_data.xlsx` workbook.
 2. Navigate to the `Dashboard` sheet.
 3. Use filters and charts to explore business insights.
 4. Update the `Raw_data` sheet to refresh dashboard metrics.
